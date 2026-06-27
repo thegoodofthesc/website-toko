@@ -421,4 +421,8 @@ main {
     .search {
         margin-bottom: 17vw
     }
+
+    .submit {
+        margin-bottom: 20vw;
+    }
 }
